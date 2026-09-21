@@ -43,3 +43,5 @@ During my time at Inter, I have also contributed to:
 ---
 
 Happy to exchange ideas about Java backend development, integrations, and product engineering.
+
+[Let's connect on LinkedIn](https://www.linkedin.com/in/lucasmas16/)
