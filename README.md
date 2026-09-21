@@ -43,3 +43,5 @@ Ao longo da minha trajetória no Inter, também atuei em:
 ---
 
 Aberto a trocar experiências sobre backend Java, integrações e desenvolvimento de produtos.
+
+[Vamos conversar no LinkedIn](https://www.linkedin.com/in/lucasmas16/)
